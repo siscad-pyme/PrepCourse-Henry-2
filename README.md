@@ -1,2 +1,2 @@
-# PrepCourse-Henry-2
-Repositorio de prueba del módulo 2
+Mauricio Isaza
+Este archivo es una muestra de como se carga un documento a Git Hub
